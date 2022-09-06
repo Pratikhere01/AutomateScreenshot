@@ -1,4 +1,6 @@
 # AutomateScreenshot
-Taking screenshot of any webpage.
+
+# Input URL:
+(Press Enter)
 
 
